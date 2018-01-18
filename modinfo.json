@@ -1,0 +1,16 @@
+{
+	"name": "PoE_Official_Mod_Test2",
+	"description": "This will devlope into the official mod for PoE.\nThis is being released ahead of schedule as a quick patch.\nAs of now some items have a stack limit 10x that of default. Encoubrance weight on those items has been halved. These items include:\nHarvested items\nBuilding supplies\nArrows\nPotions (The weight was left at default)\n\nThere is still some cleaning up to do and more features to add",
+	"changeNote": "",
+	"author": "DarthN8er369",
+	"authorUrl": "www.purgeofexiles.com",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1266863038",
+	"steamVisibility": 2,
+	"folderName": "PoE_Official_Mod1",
+	"revisionNumber": 73508,
+	"snapshotId": 15206
+}

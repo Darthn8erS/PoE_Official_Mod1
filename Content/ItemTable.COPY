@@ -1,0 +1,9 @@
+Begin Object Class=DataTable Name="ItemTable"
+   Begin Object Class=AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   RowStruct=ScriptStruct'/Script/ConanSandbox.ItemTableRow'
+   AssetImportData=AssetImportData'AssetImportData'
+   RowStructName="ItemTableRow"
+End Object
